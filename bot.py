@@ -17,7 +17,7 @@ def run_server():
     server = HTTPServer(("0.0.0.0", port), HealthCheckHandler)
     server.serve_forever()
 
-BOT_TOKEN = "9032744181:AAEPqDw9HoCxV1w3eaWKQaP88w-7vE3KQ0"
+BOT_TOKEN = "9032744181:AAHIHvJlrX5gNsXRAbP_XJqNVdat4JPx_Og"
 SOURCE_ID = -1004431649167
 TARGET_ID = -5406590761
 
